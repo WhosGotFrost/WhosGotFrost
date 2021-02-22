@@ -1,0 +1,15 @@
+# About WhosGotFrost
+ A little bit about me
+
+ --------------------------
+
+ ***Just Someone Whos Trying to learn something new!***
+
+ **Projects I Have Made**
+
+*Discord.js Bot Dev*
+
+**LANGS I KNOW**
+***CS, NODEJS, CSS, PHP***
+
+We Learn New Things Everyday, I am still in the learning stages!
