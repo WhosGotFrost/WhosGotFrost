@@ -3,7 +3,9 @@
 
  --------------------------
 **Social Medias**
+
 IG: *@whosgotfrost*
+
 Youtube: *@WhosGotFrost*
 
  ***Just Someone Whos Trying to learn something new!***
