@@ -4,7 +4,7 @@
  --------------------------
 **Social Medias**
 
-IG: <span style="color:blue">*@whosgotfrost*</span>
+IG:*@whosgotfrost*
 
 Youtube: *@WhosGotFrost*
 
