@@ -15,6 +15,6 @@ Youtube: *@WhosGotFrost*
 *Discord.js Bot Dev*
 
 **LANGS I KNOW**
-***CS, NODEJS, CSS, PHP***
+***CS, NODEJS, CSS, Python***
 
 We Learn New Things Everyday, I am still in the learning stages!
