@@ -13,6 +13,7 @@ Youtube: *@WhosGotFrost*
  **Projects I Have Made**
 
 *Discord.js Bot Dev*
+*Moderation Bot in Nodejs*
 
 **LANGS I KNOW**
 ***CS, NODEJS, CSS, Python***
